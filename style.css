@@ -1,0 +1,19 @@
+/*
+ * Copyright 2012 President and Fellows of Harvard College
+ * Released under Apache 2.0 license
+ * http://www.apache.org/licenses/LICENSE-2.0.html
+ */
+
+/*
+ * This CSS file will be loaded last in the CSS load order for your exhibit,
+ * meaning that the changes that you make to styling in this file will overwrite
+ * default CSS from other files.
+ *
+ * I haven't included any CSS pre-processors here, like Sass or Less, but if
+ * you're not using one, I highly recommend that you do. I tend to use Compass
+ * (http://compass-style.org/) for css pre-processing, since it's got a dead
+ * simple setup for new projects (just one line, `compass init`, and you have a
+ * functional Sass setup). Just make sure that whatever pre-processor you use
+ * overwrites this file. Otherwise, you can just include your style changes
+ * directly into this file.
+ */
